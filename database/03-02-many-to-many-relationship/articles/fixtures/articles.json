@@ -1,0 +1,38 @@
+[
+{
+    "model": "articles.article",
+    "pk": 1,
+    "fields": {
+        "user": 1,
+        "title": "윤대영",
+        "content": "윤대영",
+        "created_at": "2024-04-09T00:17:49.656Z",
+        "updated_at": "2024-04-09T00:17:49.656Z",
+        "like_users": []
+    }
+},
+{
+    "model": "articles.article",
+    "pk": 2,
+    "fields": {
+        "user": 2,
+        "title": "asdasd",
+        "content": "asdasd",
+        "created_at": "2024-04-09T01:21:25.816Z",
+        "updated_at": "2024-04-09T01:21:25.816Z",
+        "like_users": []
+    }
+},
+{
+    "model": "articles.article",
+    "pk": 3,
+    "fields": {
+        "user": 2,
+        "title": "qweqwe",
+        "content": "asdasdasd",
+        "created_at": "2024-04-09T01:21:30.846Z",
+        "updated_at": "2024-04-09T01:21:30.846Z",
+        "like_users": []
+    }
+}
+]
